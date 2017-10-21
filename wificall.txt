@@ -5,5 +5,5 @@
   "update_log": "1，wifi通话应用闪亮登场\r\n2，此版本已经华丽升级",
   "target_size": "6.57M",
   "new_md5":"cb184482edaf2138032ff77405fc2e2e",
-  "constraint": false
+  "constraint": true
 }
