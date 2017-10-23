@@ -1,7 +1,7 @@
 {
-  "update": "No",
-  "versioncode":1,
-  "new_version": "1.0.0.4",
+  "update": "Yes",
+  "versioncode": 1,
+  "new_version": "1.0.0.1",
   "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wifi_call.apk",
   "update_log": "1，wifi通话应用闪亮登场\r\n2，此版本已经华丽升级",
   "target_size": "6.57M",
