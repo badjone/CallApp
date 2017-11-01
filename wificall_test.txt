@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "versioncode": 4,
-  "new_version": "1.0.1.8",
-  "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wificall_test1.0.1.8.apk",
-  "update_log": "1.增加app自启动模式,只要开机，在同一网段下，可以方便的随时发起通话哦 2.修复了一些bug",
+  "versioncode": 5,
+  "new_version": "1.0.1.9",
+  "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wificall_test1.0.1.9.apk",
+  "update_log": "1.修复个人通话的一些问题，通话中靠近耳朵黑屏，优化了一些体验\r\n 2.修复了一些bug",
   "target_size": "7.34M",
   "new_md5": "CB184482EDAF2138032FF77405FC2E2E",
   "constraint": false
