@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "versioncode": 3,
-  "new_version": "1.0.0.3",
-  "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wifi_call_1.0.0.3.apk",
-  "update_log": "1.wifi通话开关屏一些优化\r\n2.优化通话交互体验\r\n3.解决了一些bug",
+  "versioncode": 4,
+  "new_version": "1.0.0.4",
+  "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wifi_call_1.0.0.4.apk",
+  "update_log": "1.wifi通话启动和服务的一些优化\r\n2.个人通话交互的一些处理\r\n3.解决了一些bug",
   "target_size": "7.56M",
   "new_md5":"CB184482EDAF2138032FF77405FC2E2E",
   "constraint": false
