@@ -1,10 +1,10 @@
 {
   "update": "Yes",
-  "versioncode": 5,
-  "new_version": "1.0.1.9",
-  "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wificall_test1.0.1.9.apk",
-  "update_log": "1.修复个人通话的一些问题，通话中靠近耳朵黑屏，优化了一些体验\r\n 2.修复了一些bug",
+  "versioncode": 6,
+  "new_version": "1.0.2.0",
+  "apk_file_url": "https://raw.githubusercontent.com/badjone/CallApp/master/wificall_test1.0.2.0.apk",
+  "update_log": "1.修复个人通话的交互体验，优化操作流程\r\n 2.解决了通话挂断的一些问题\r\n3.修复了一些bug",
   "target_size": "7.34M",
   "new_md5": "CB184482EDAF2138032FF77405FC2E2E",
-  "constraint": false
+  "constraint": true
 }
