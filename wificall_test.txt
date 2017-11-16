@@ -6,5 +6,5 @@
   "update_log": "1.修复广播过程中，影响不在广播组的用户（屏幕常量，应用自动后台启动）\r\n 2.修复了个人通话的一些状态\r\n3.修复了一些bug",
   "target_size": "12.6M",
   "new_md5": "CB184482EDAF2138032FF77405FC2E2E",
-  "constraint": true
+  "constraint": false
 }
